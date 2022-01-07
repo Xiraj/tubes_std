@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1641043669 source:d:\kuliah\semester 3\struktur data\code\tubes_data_mahasiswa\main.cpp
+1641498094 source:d:\kuliah\semester 3\struktur data\code\tubes_data_mahasiswa\main.cpp
 	"tubes.h"
 	<stdlib.h>
 	<iostream>
 
-1641043791 d:\kuliah\semester 3\struktur data\code\tubes_data_mahasiswa\tubes.h
+1641498447 d:\kuliah\semester 3\struktur data\code\tubes_data_mahasiswa\tubes.h
 	<iostream>
 	<iostream>
 
